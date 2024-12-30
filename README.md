@@ -4,7 +4,7 @@ git clone https://github.com/arianiti2/websocket-messaging
 
 2. Navigate to the Project Directory
 Go into the project directory:
-cd repository-name
+cd websocket-messaging
 
 3. Install Dependencies
 Run the following command to install the project dependencies:

@@ -1,6 +1,6 @@
 1. Clone the Repository
 Clone the repository to your local machine
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/arianiti2/websocket-messaging
 
 2. Navigate to the Project Directory
 Go into the project directory:
